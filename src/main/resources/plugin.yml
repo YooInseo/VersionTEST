@@ -1,0 +1,3 @@
+version: test
+main: com.example.Main
+api-version: 1.12.2
